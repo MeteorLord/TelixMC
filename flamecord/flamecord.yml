@@ -1,0 +1,98 @@
+custom-motd:
+  motd:
+    enabled: false
+    motds:
+    - |-
+      &eDefault &cFlameCord&e custom motd!
+      &eChange me in &cflamecord.yml&e file!
+  sample:
+    enabled: false
+    samples:
+    - |-
+      &eDefault &cFlameCord&e sample!
+      &eChange me in &cflamecord.yml&e file!
+  protocol:
+    enabled: false
+    name: FlameCord 1.7-1.18
+  maxplayers:
+    enabled: false
+    amount: 1000
+    justonemore: false
+  fakeplayers:
+    enabled: false
+    amount: 3
+    mode: DIVISION
+allow-invalid-names: false
+antibot:
+  accounts:
+    enabled: true
+    firewall: true
+    limit: 3
+    log: true
+  country:
+    enabled: true
+    firewall: true
+    blacklist:
+    - CN
+    - HK
+    - RU
+    - IN
+    - TH
+    - ID
+    - DZ
+    - VN
+    - IR
+    - PK
+    log: true
+  fastchat:
+    enabled: true
+    firewall: true
+    time: 1000
+    log: true
+  firewall:
+    enabled: true
+    exceptions:
+    - BadPacketException
+    - QuietException
+    - IllegalStateConfig
+    - FastException
+    ipset: true
+    time: 60
+    log: true
+  nickname:
+    enabled: true
+    firewall: true
+    blacklist:
+    - mcstorm
+    - mcdown
+    - mcbot
+    - theresa_bot
+    - dropbot
+    - kingbot
+    log: true
+  password:
+    enabled: true
+    firewall: true
+    limit: 3
+    log: true
+  ratelimit:
+    enabled: true
+    firewall: true
+    connections-per-second: 3
+    pings-per-second: 8
+    log: true
+  reconnect:
+    enabled: true
+    attempts: 2
+    pings: 0
+    max-time: 10000
+    connection-threshold: 1
+    connection-threshold-limit: 8000
+    log: true
+tcp-fast-open: 3
+logger:
+  initialhandler: false
+  exceptions: false
+  dump: false
+  haproxy: false
+  detailed-connect-errors: false

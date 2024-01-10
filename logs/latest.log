@@ -1,0 +1,82 @@
+[22:12:58] [main/INFO]: Using mbed TLS based native cipher.
+[22:12:58] [main/INFO]: Using zlib based native compressor.
+[22:12:58] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548
+[22:12:58] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[22:12:58] [main/INFO]: Epoll is working, utilising it!
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[22:12:59] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[22:13:00] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:00] [main/INFO]: Attempting to Jenkins download module cmd_alert v548
+[22:13:06] [main/INFO]: Download complete
+[22:13:06] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:06] [main/INFO]: Attempting to Jenkins download module cmd_find v548
+[22:13:06] [main/INFO]: Download complete
+[22:13:06] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:06] [main/INFO]: Attempting to Jenkins download module cmd_list v548
+[22:13:06] [main/INFO]: Download complete
+[22:13:06] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:06] [main/INFO]: Attempting to Jenkins download module cmd_send v548
+[22:13:06] [main/INFO]: Download complete
+[22:13:06] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:06] [main/INFO]: Attempting to Jenkins download module cmd_server v548
+[22:13:06] [main/INFO]: Download complete
+[22:13:06] [main/INFO]: Attempting to update plugin from ModuleVersion(build=536, git=ec41547) to ModuleVersion(build=548, git=c996222)
+[22:13:06] [main/INFO]: Attempting to Jenkins download module reconnect_yaml v548
+[22:13:07] [main/INFO]: Download complete
+[22:13:07] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:07] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:07] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:07] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:07] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:07] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:08] [main/INFO] [EaglercraftXBungee]: Loading vanilla profile: lax1dude
+[22:13:11] [Skin Download Thread #1/INFO] [EaglercraftXBungee]: Loaded vanilla profile: lax1dude
+[22:13:11] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.5 by lax1dude
+[22:13:12] [main/WARN]: Could not load server icon
+java.lang.IllegalArgumentException: Server icon must be exactly 64x64 pixels
+	at net.md_5.bungee.api.Favicon.create(Favicon.java:80) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+	at net.md_5.bungee.conf.Configuration.load(Configuration.java:89) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+	at io.github.waterfallmc.waterfall.conf.WaterfallConfiguration.load(WaterfallConfiguration.java:67) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:288) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:c996222:548]
+[22:13:12] [main/WARN]: Forced host server pvp is not defined
+[22:13:12] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:c996222:548 by WaterfallMC
+[22:13:12] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[22:13:12] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[22:13:14] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[22:13:14] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.5 by lax1dude
+[22:13:14] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[22:23:50] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[22:23:50] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[22:23:50] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[22:23:50] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[22:23:50] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[22:23:50] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[22:23:50] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[22:23:50] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[22:23:50] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[22:23:50] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[22:23:50] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+[22:23:50] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[22:23:50] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[22:23:50] [main/ERROR]: 	at java.io.FileInputStream.read0(Native Method)
+[22:23:50] [main/ERROR]: 	at java.io.FileInputStream.read(FileInputStream.java:207)
+[22:23:50] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[22:23:50] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[22:23:50] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[22:23:50] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[22:23:50] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[22:23:50] [main/ERROR]: 	... 10 more
+[22:23:50] [Thread-4/INFO]: Closing listener [id: 0x031c85cc, L:/127.0.0.1:25577]
+[22:23:50] [Thread-4/INFO]: Closing pending connections
+[22:23:50] [Thread-4/INFO]: Disconnecting 0 connections

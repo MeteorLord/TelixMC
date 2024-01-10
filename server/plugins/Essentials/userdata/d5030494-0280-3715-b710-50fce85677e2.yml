@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704912968351
+  login: 1704912963901
+money: '0'
+last-account-name: MeteorLord
+lastlocation:
+  world: 2e761bbc-397d-472a-a460-a01ba6b93122
+  world-name: world
+  x: 36.5
+  y: 70.0
+  z: 244.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 2e761bbc-397d-472a-a460-a01ba6b93122
+  world-name: world
+  x: 23.37461223560311
+  y: 71.0
+  z: 265.9423314935357
+  yaw: -6.300000190734863
+  pitch: 20.25

@@ -1,0 +1,76 @@
+[01-10 08:14:18]: [INFO] Created column 'regdate' and set the current timestamp, 1704899658683, to all 0 rows
+[01-10 08:14:18]: [INFO] SQLite Setup finished
+[01-10 08:14:18]: [INFO] Hooked into LuckPerms!
+[01-10 08:14:18]: [INFO] Hooked successfully into Essentials
+[01-10 08:14:18]: [INFO] Essentials spawn file not found: '/home/bporter/Desktop/Eaglercraft/Server/1.8.8/EaglercraftServer-1.8.8/server/plugins/Essentials/spawn.yml'
+[01-10 08:14:18]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[01-10 08:14:18]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[01-10 08:14:19]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01-10 08:14:19]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01-10 08:14:19]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01-10 08:14:19]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[01-10 08:14:19]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01-10 08:14:32]: [FINE] MeteorLord registered 127.0.0.1
+[01-10 08:14:32]: [FINE] MeteorLord logged in 127.0.0.1
+[01-10 08:14:45]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[01-10 11:55:33]: [INFO] SQLite Setup finished
+[01-10 11:55:33]: [INFO] Hooked into LuckPerms!
+[01-10 11:55:33]: [INFO] Hooked successfully into Essentials
+[01-10 11:55:33]: [INFO] Essentials spawn file not found: '/home/bporter/Desktop/TelixMC/server/plugins/Essentials/spawn.yml'
+[01-10 11:55:33]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[01-10 11:55:33]: [INFO] AuthMe 5.6.0-beta2 build n.2453 successfully enabled!
+[01-10 11:55:33]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[01-10 11:55:33]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[01-10 11:55:33]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[01-10 11:55:33]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[01-10 11:55:33]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftTask.run(CraftTask.java:59)
+	at org.bukkit.craftbukkit.v1_8_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+	at org.github.paperspigot.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:23)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01-10 11:56:11]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!
+[01-10 11:59:41]: [WARN] Aborting initialization of AuthMe: [ClassCastException]: class org.apache.logging.log4j.simple.SimpleLogger cannot be cast to class org.apache.logging.log4j.core.Logger (org.apache.logging.log4j.simple.SimpleLogger and org.apache.logging.log4j.core.Logger are in unnamed module of loader 'app')
+[01-10 11:59:41]: java.lang.ClassCastException: class org.apache.logging.log4j.simple.SimpleLogger cannot be cast to class org.apache.logging.log4j.core.Logger (org.apache.logging.log4j.simple.SimpleLogger and org.apache.logging.log4j.core.Logger are in unnamed module of loader 'app')
+	at fr.xephi.authme.initialization.OnStartupTasks.setLog4JFilter(OnStartupTasks.java:87)
+	at fr.xephi.authme.initialization.OnStartupTasks.setupConsoleFilter(OnStartupTasks.java:73)
+	at fr.xephi.authme.AuthMe.initialize(AuthMe.java:218)
+	at fr.xephi.authme.AuthMe.onEnable(AuthMe.java:145)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:321)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:332)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:407)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.loadPlugin(CraftServer.java:359)
+	at org.bukkit.craftbukkit.v1_8_R3.CraftServer.enablePlugins(CraftServer.java:318)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.s(MinecraftServer.java:408)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.k(MinecraftServer.java:372)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.a(MinecraftServer.java:327)
+	at net.minecraft.server.v1_8_R3.DedicatedServer.init(DedicatedServer.java:267)
+	at net.minecraft.server.v1_8_R3.MinecraftServer.run(MinecraftServer.java:563)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[01-10 11:59:41]: [INFO] AuthMe 5.6.0-beta2-b2453 disabled!

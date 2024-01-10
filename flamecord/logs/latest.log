@@ -1,0 +1,39 @@
+[22:39:00] [main/INFO]: Using mbed TLS based native cipher.
+[22:39:00] [main/INFO]: Using zlib based native compressor.
+[22:39:00] [main/INFO]: Enabled FlameCord version 1.1.1
+[22:39:00] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[22:39:00] [main/INFO]: Epoll is working, utilising it!
+[22:39:00] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[22:39:00] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[22:39:00] [main/WARN]: :>  apart from the versions listed below:
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
+[22:39:00] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
+[22:39:00] [main/WARN]: :>  - FlameCord: 1.1.1
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[22:39:00] [main/WARN]: :>  
+[22:39:00] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[22:39:00] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[22:39:00] [main/WARN]: Forced host server pvp is not defined
+[22:39:00] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[22:39:00] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[22:39:00] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
+[22:39:00] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[22:39:00] [Netty Boss IO Thread #0/INFO]: Listening on /0.0.0.0:25577
+[22:39:06] [Netty Worker IO Thread #1/INFO]: [FlameCord] [/127.0.0.1:46686] was firewalled because of QuietException
+[22:39:15] [Shutdown Thread/INFO]: Closing listener [id: 0x99c13499, L:/[0:0:0:0:0:0:0:0%0]:25577]
+[22:39:15] [Shutdown Thread/INFO]: Closing pending connections
+[22:39:15] [Shutdown Thread/INFO]: Disconnecting 0 connections
+[22:39:16] [Shutdown Thread/INFO]: Disabling plugins
+[22:39:16] [Shutdown Thread/INFO] [EaglercraftXBungee]: Eaglercraft listener closed: /0.0.0.0:8081
+[22:39:16] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_skins_cache.db'
+[22:39:16] [Shutdown Thread/INFO] [EaglercraftXBungee]: Successfully disconnected from database 'jdbc:sqlite:eaglercraft_auths.db'
+[22:39:16] [Shutdown Thread/INFO]: Closing IO threads
+[22:39:18] [Shutdown Thread/INFO]: Thank you and goodbye

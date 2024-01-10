@@ -1,0 +1,107 @@
+[11:59:31] [main/INFO]: Using mbed TLS based native cipher.
+[11:59:31] [main/INFO]: Using zlib based native compressor.
+[11:59:31] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
+[11:59:31] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[11:59:31] [main/INFO]: Epoll is working, utilising it!
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[11:59:31] [main/INFO]: Loaded plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[11:59:31] [main/INFO]: Loaded plugin ViaRewind version 3.0.5 by null
+[11:59:31] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/INFO]: Loaded plugin LuckPerms version 5.4.116 by Luck
+[11:59:32] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[11:59:32] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[11:59:32] [main/WARN]: :>  apart from the versions listed below:
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
+[11:59:32] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
+[11:59:32] [main/WARN]: :>  - FlameCord: 1.1.1
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[11:59:32] [main/WARN]: :>  
+[11:59:32] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[11:59:32] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[11:59:32] [main/INFO] [Geyser-BungeeCord]: Loading extensions...
+[11:59:32] [main/INFO] [Geyser-BungeeCord]: Loaded 0 extension(s)
+[11:59:32] [main/INFO]: Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+[11:59:32] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/INFO] [floodgate]: Took 319ms to boot Floodgate
+[11:59:32] [main/INFO]: Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+[11:59:32] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:32] [main/INFO]: Loaded plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[11:59:32] [main/WARN]: Forced host server pvp is not defined
+[11:59:33] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
+[11:59:33] [Via-Mappingloader-0/INFO] [ViaVersion]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[11:59:33] [main/INFO] [ViaBackwards]: Loading translations...
+[11:59:33] [main/INFO] [ViaBackwards]: Registering protocols...
+[11:59:34] [main/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[11:59:34] [main/INFO] [ViaVersion]: Highest supported version by the proxy: 1.20.3 (765)
+[11:59:34] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
+[11:59:34] [main/INFO]: Enabled plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[11:59:34] [main/INFO]: Enabled plugin ViaRewind version 3.0.5 by null
+[11:59:34] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:34] [main/INFO]:         __    
+[11:59:34] [main/INFO]:   |    |__)   LuckPerms v5.4.116
+[11:59:34] [main/INFO]:   |___ |      Running on BungeeCord - Waterfall
+[11:59:34] [main/INFO]: 
+[11:59:34] [main/INFO] [LuckPerms]: Loading configuration...
+[11:59:35] [main/INFO] [LuckPerms]: Loading storage provider... [H2]
+[11:59:35] [main/INFO] [LuckPerms]: Loading internal permission managers...
+[11:59:35] [main/INFO] [LuckPerms]: Performing initial data load...
+[11:59:35] [main/INFO] [LuckPerms]: Successfully enabled. (took 1620ms)
+[11:59:35] [main/INFO]: Enabled plugin LuckPerms version 5.4.116 by Luck
+[11:59:35] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:35] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[11:59:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[11:59:36] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[11:59:36] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[11:59:36] [main/INFO]: Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
+[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
+[11:59:36] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
+[11:59:36] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
+[11:59:36] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:36] [main/INFO]: Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+[11:59:36] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[11:59:36] [main/INFO]: Enabled plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[11:59:36] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[11:59:41] [epollEventLoopGroup-3-1/INFO] [Geyser-BungeeCord]: Started Geyser on 0.0.0.0:19132
+[11:59:41] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Done (4.747s)! Run /geyser help for help!
+[11:59:42] [Thread-17/INFO]: Closing listener [id: 0x1036ea4a, L:/127.0.0.1:25577]
+[11:59:42] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[11:59:42] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[11:59:42] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[11:59:42] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+[11:59:42] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[11:59:42] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[11:59:42] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
+[11:59:42] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:231)
+[11:59:42] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[11:59:42] [main/ERROR]: 	... 10 more

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "ec5604e7-beb9-4071-aba1-627f13580845",
+    "name": "Nerdo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a2bfce6b-1507-3413-a5a4-ec91bcba6814",
+    "name": "HudxinMC",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "606b48fb-a82e-3d8b-a56d-dfd0e6c06bb8",
+    "name": "Nerdo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
