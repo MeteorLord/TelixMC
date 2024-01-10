@@ -1,0 +1,10 @@
+[Unit]
+Description=TelixMC Bungee
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/bash /root/TelixMC/bungee.sh
+Type=simple
+
+[Install]
+WantedBy=multi-user.target

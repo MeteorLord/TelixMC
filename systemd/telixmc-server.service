@@ -1,0 +1,10 @@
+[Unit]
+Description=TelixMC Server
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/bash /root/TelixMC/server.sh
+Type=simple
+
+[Install]
+WantedBy=multi-user.target

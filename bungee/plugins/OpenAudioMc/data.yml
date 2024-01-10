@@ -1,0 +1,12 @@
+legal:
+  accepted: true
+regions: null
+aliases: null
+speakers: null
+keyset:
+  key-version: 5
+  private: f5d50ca3-1250-497d-bc4d-6c11a76d2201
+  link-mode: true
+  public: 89783cbb-f288-424c-8c55-62325c0ff3a4
+debug:
+  log-state-changes: false

@@ -6,7 +6,7 @@ echo "set -g mouse on" > ~/.tmux.conf
 tmux kill-session -t server
 tmux kill-session -t placeholder
 
-cd /home/bporter/TelixMC/bungee
+cd /root/TelixMC/bungee
 tmux new -d -s server "java -Djava.awt.headless=true -jar bungee.jar; tmux kill-session -t server"
 cd ../server
 if [ ! -f "server.jar" ] && [ -d "../cuberite" ]; then

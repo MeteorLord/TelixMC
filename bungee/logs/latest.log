@@ -1,107 +1,250 @@
-[11:59:31] [main/INFO]: Using mbed TLS based native cipher.
-[11:59:31] [main/INFO]: Using zlib based native compressor.
-[11:59:31] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
-[11:59:31] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
-[11:59:31] [main/INFO]: Epoll is working, utilising it!
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
-[11:59:31] [main/INFO]: Loaded plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
-[11:59:31] [main/INFO]: Loaded plugin ViaRewind version 3.0.5 by null
-[11:59:31] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/INFO]: Loaded plugin LuckPerms version 5.4.116 by Luck
-[11:59:32] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>  This plugin wasn't tested to be 'working'
-[11:59:32] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
-[11:59:32] [main/WARN]: :>  apart from the versions listed below:
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
-[11:59:32] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
-[11:59:32] [main/WARN]: :>  - FlameCord: 1.1.1
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
-[11:59:32] [main/WARN]: :>  
-[11:59:32] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[11:59:32] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[11:59:32] [main/INFO] [Geyser-BungeeCord]: Loading extensions...
-[11:59:32] [main/INFO] [Geyser-BungeeCord]: Loaded 0 extension(s)
-[11:59:32] [main/INFO]: Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
-[11:59:32] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/INFO] [floodgate]: Took 319ms to boot Floodgate
-[11:59:32] [main/INFO]: Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
-[11:59:32] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:32] [main/INFO]: Loaded plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
-[11:59:32] [main/WARN]: Forced host server pvp is not defined
-[11:59:33] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
-[11:59:33] [Via-Mappingloader-0/INFO] [ViaVersion]: Using FastUtil Long2ObjectOpenHashMap for block connections
-[11:59:33] [main/INFO] [ViaBackwards]: Loading translations...
-[11:59:33] [main/INFO] [ViaBackwards]: Registering protocols...
-[11:59:34] [main/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
-[11:59:34] [main/INFO] [ViaVersion]: Highest supported version by the proxy: 1.20.3 (765)
-[11:59:34] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
-[11:59:34] [main/INFO]: Enabled plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
-[11:59:34] [main/INFO]: Enabled plugin ViaRewind version 3.0.5 by null
-[11:59:34] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:34] [main/INFO]:         __    
-[11:59:34] [main/INFO]:   |    |__)   LuckPerms v5.4.116
-[11:59:34] [main/INFO]:   |___ |      Running on BungeeCord - Waterfall
-[11:59:34] [main/INFO]: 
-[11:59:34] [main/INFO] [LuckPerms]: Loading configuration...
-[11:59:35] [main/INFO] [LuckPerms]: Loading storage provider... [H2]
-[11:59:35] [main/INFO] [LuckPerms]: Loading internal permission managers...
-[11:59:35] [main/INFO] [LuckPerms]: Performing initial data load...
-[11:59:35] [main/INFO] [LuckPerms]: Successfully enabled. (took 1620ms)
-[11:59:35] [main/INFO]: Enabled plugin LuckPerms version 5.4.116 by Luck
-[11:59:35] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:35] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
-[11:59:36] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
-[11:59:36] [main/INFO] [EaglercraftXBungee]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[11:59:36] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.9 by lax1dude
-[11:59:36] [main/INFO]: Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
-[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
-[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
-[11:59:36] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
-[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
-[11:59:36] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:36] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
-[11:59:36] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:36] [main/INFO]: Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
-[11:59:36] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
-[11:59:36] [main/INFO]: Enabled plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
-[11:59:36] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
-[11:59:41] [epollEventLoopGroup-3-1/INFO] [Geyser-BungeeCord]: Started Geyser on 0.0.0.0:19132
-[11:59:41] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Done (4.747s)! Run /geyser help for help!
-[11:59:42] [Thread-17/INFO]: Closing listener [id: 0x1036ea4a, L:/127.0.0.1:25577]
-[11:59:42] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
-[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
-[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
-[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
-[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
-[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
-[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
-[11:59:42] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
-[11:59:42] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
-[11:59:42] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
-[11:59:42] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
-[11:59:42] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
-[11:59:42] [main/ERROR]: Caused by: java.io.IOException: Input/output error
-[11:59:42] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
-[11:59:42] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:231)
-[11:59:42] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
-[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
-[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
-[11:59:42] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
-[11:59:42] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
-[11:59:42] [main/ERROR]: 	... 10 more
+[20:23:41] [main/INFO]: Using standard Java JCE cipher.
+[20:23:41] [main/INFO]: Using standard Java compressor.
+[20:23:41] [main/INFO]: Enabled Waterfall version git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562
+[20:23:42] [main/INFO]: Not on Windows, attempting to use enhanced EpollEventLoop
+[20:23:42] [main/WARN]: Epoll is not working, falling back to NIO: UnsatisfiedLinkError : could not load a native library: netty_transport_native_epoll_arm_32 @ io.netty.util.internal.NativeLibraryLoader:239
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+[20:23:42] [main/INFO]: Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+[20:23:43] [main/INFO]: Loaded plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[20:23:43] [main/INFO]: Loaded plugin ViaRewind version 3.0.5 by null
+[20:23:43] [main/INFO]: Loaded plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:46] [main/INFO]: Loaded plugin LuckPerms version 5.4.116 by Luck
+[20:23:46] [main/INFO]: Loaded plugin OpenAudioMc version 6.8.9 by Mindgamesnl
+[20:23:46] [main/INFO]: Loaded plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:46] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>      EAGLERCRAFTXBUNGEE WARNING:
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>  This plugin wasn't tested to be 'working'
+[20:23:46] [main/WARN]: :>  with ANY version of BungeeCord (and forks)
+[20:23:46] [main/WARN]: :>  apart from the versions listed below:
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>  - BungeeCord: 1.20-R0.2-SNAPSHOT:231024b:1777
+[20:23:46] [main/WARN]: :>  - Waterfall: 1.20-R0.2-SNAPSHOT:d85fe36:556
+[20:23:46] [main/WARN]: :>  - FlameCord: 1.1.1
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>  This is not a Bukkit/Spigot plugin!
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>  Use "-Deaglerxbungee.stfu=true" to hide
+[20:23:46] [main/WARN]: :>  
+[20:23:46] [main/WARN]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[20:23:46] [main/INFO]: Loaded plugin EaglercraftXBungee version 1.0.9 by lax1dude
+[20:23:47] [main/INFO] [Geyser-BungeeCord]: Loading extensions...
+[20:23:47] [main/INFO] [Geyser-BungeeCord]: Loaded 0 extension(s)
+[20:23:47] [main/INFO]: Loaded plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+[20:23:47] [main/INFO]: Loaded plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:47] [main/INFO]: Loaded plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:47] [main/INFO]: Loaded plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:49] [main/INFO] [floodgate]: Took 1,808ms to boot Floodgate
+[20:23:49] [main/INFO]: Loaded plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+[20:23:49] [main/INFO]: Loaded plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:23:49] [main/INFO]: Loaded plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[20:23:49] [main/WARN]: Forced host server pvp is not defined
+[20:23:52] [Via-Mappingloader-0/INFO] [ViaVersion]: Loading block connection mappings ...
+[20:23:55] [main/INFO] [ViaBackwards]: Loading translations...
+[20:23:55] [main/INFO] [ViaBackwards]: Registering protocols...
+[20:23:56] [Via-Mappingloader-0/INFO] [ViaVersion]: Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:23:59] [main/INFO] [ViaVersion]: ViaVersion detected lowest supported version by the proxy: 1.8.x (47)
+[20:23:59] [main/INFO] [ViaVersion]: Highest supported version by the proxy: 1.20.3 (765)
+[20:24:00] [ViaVersion Pool Thread #2/INFO] [ViaVersion]: Finished mapping loading, shutting down loader executor!
+[20:24:00] [main/INFO]: Enabled plugin ViaVersion version 4.9.2 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv
+[20:24:00] [main/INFO]: Enabled plugin ViaRewind version 3.0.5 by null
+[20:24:00] [main/INFO]: Enabled plugin reconnect_yaml version git:reconnect_yaml:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:03] [main/INFO]:         __    
+[20:24:03] [main/INFO]:   |    |__)   LuckPerms v5.4.116
+[20:24:03] [main/INFO]:   |___ |      Running on BungeeCord - Waterfall
+[20:24:03] [main/INFO]: 
+[20:24:03] [main/INFO] [LuckPerms]: Loading configuration...
+[20:24:04] [main/INFO] [LuckPerms]: Loading storage provider... [H2]
+[20:24:06] [main/INFO] [LuckPerms]: Loading internal permission managers...
+[20:24:06] [main/INFO] [LuckPerms]: Performing initial data load...
+[20:24:07] [main/INFO] [LuckPerms]: Successfully enabled. (took 7019ms)
+[20:24:07] [main/INFO]: Enabled plugin LuckPerms version 5.4.116 by Luck
+[20:24:07] [main/INFO]: [OpenAudioMc] Initializing build 1019 by Mats
+[20:24:07] [main/INFO]: [OpenAudioMc] Starting configuration module
+[20:24:07] [main/INFO]: [OpenAudioMc] Starting configuration module
+[20:24:07] [main/INFO]: [OpenAudioMc] Skipped 37/37 migrations.
+[20:24:07] [main/INFO]: [OpenAudioMc] ModuleLoaderService: Downloading default migration module
+[20:24:36] [main/INFO]: [OpenAudioMc] ModuleLoaderService: Loading modules from /root/TelixMC/bungee/plugins/OpenAudioMc/modules
+[20:24:36] [main/INFO]: [OpenAudioMc] Initializing socket connector
+[20:24:36] [main/INFO]: [OpenAudioMc] Starting authentication module
+[20:24:36] [main/INFO]: [OpenAudioMc] Creating account...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for Alias
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (alias<->Alias.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table alias...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for ClientDataStore
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table client_data_store...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for MojangProfile
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table mojang_profile...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for RegionProperties
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table region_properties...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for Speaker
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table speaker...
+[20:24:39] [main/INFO]: [OpenAudioMc] Registering storage table for StoredWorldChunk
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+[20:24:39] [main/INFO]: [OpenAudioMc] DatabaseService: Creating table stored_world_chunk...
+[20:24:39] [main/INFO]: [OpenAudioMc] Delaying account init because we're a fresh installation
+[20:24:39] [main/INFO]: [OpenAudioMc] CDN is disabled, skipping boot
+[20:24:39] [main/INFO]: [OpenAudioMc] Starting and loading took 53397MS
+[20:24:39] [main/INFO]: Enabled plugin OpenAudioMc version 6.8.9 by Mindgamesnl
+[20:24:39] [main/INFO]: Enabled plugin cmd_list version git:cmd_list:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:39] [main/ERROR] [EaglercraftXBungee]: Online mode is set to false! Authentication system has been disabled
+[20:24:39] [Netty Worker IO Thread #1/INFO] [EaglercraftXBungee]: Eaglercraft is listening on: /0.0.0.0:8081
+[20:24:39] [main/WARN]: Exception encountered when loading plugin: EaglercraftXBungee
+net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.skins.ICacheProvider$CacheException: Could not initialize 'jdbc:sqlite:eaglercraft_skins_cache.db'!
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.skins.JDBCCacheProvider.initialize(JDBCCacheProvider.java:47) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.skins.SkinService.init(SkinService.java:258) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.EaglerXBungee.onEnable(EaglerXBungee.java:151) ~[?:?]
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugins(PluginManager.java:316) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:302) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+Caused by: java.sql.SQLException: Error opening connection
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:281) ~[?:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:65) ~[?:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[?:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[?:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:104) ~[?:?]
+	at org.sqlite.JDBC.connect(JDBC.java:77) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.sqlite.EaglerDrivers.connectToDatabase(EaglerDrivers.java:112) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.skins.JDBCCacheProvider.initialize(JDBCCacheProvider.java:42) ~[?:?]
+	... 6 more
+Caused by: java.lang.Exception: No native library found for os.name=Linux, os.arch=armv7, paths=[/usr/java/packages/lib:/usr/lib/arm-linux-gnueabihf/jni:/lib/arm-linux-gnueabihf:/usr/lib/arm-linux-gnueabihf:/usr/lib/jni:/lib:/usr/lib]
+	at org.sqlite.SQLiteJDBCLoader.loadSQLiteNativeLibrary(SQLiteJDBCLoader.java:375) ~[?:?]
+	at org.sqlite.SQLiteJDBCLoader.initialize(SQLiteJDBCLoader.java:68) ~[?:?]
+	at org.sqlite.core.NativeDB.load(NativeDB.java:63) ~[?:?]
+	at org.sqlite.SQLiteConnection.open(SQLiteConnection.java:278) ~[?:?]
+	at org.sqlite.SQLiteConnection.<init>(SQLiteConnection.java:65) ~[?:?]
+	at org.sqlite.jdbc3.JDBC3Connection.<init>(JDBC3Connection.java:28) ~[?:?]
+	at org.sqlite.jdbc4.JDBC4Connection.<init>(JDBC4Connection.java:19) ~[?:?]
+	at org.sqlite.JDBC.createConnection(JDBC.java:104) ~[?:?]
+	at org.sqlite.JDBC.connect(JDBC.java:77) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.sqlite.EaglerDrivers.connectToDatabase(EaglerDrivers.java:112) ~[?:?]
+	at net.lax1dude.eaglercraft.v1_8.plugin.gateway_bungeecord.skins.JDBCCacheProvider.initialize(JDBCCacheProvider.java:42) ~[?:?]
+	... 6 more
+[20:24:39] [main/INFO]: Enabled plugin Geyser-BungeeCord version 2.2.0-SNAPSHOT by GeyserMC
+[20:24:39] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
+[20:24:39] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
+[20:24:39] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Loading Geyser version 2.2.0-SNAPSHOT (git-master-7613bdb)
+[20:24:39] [main/INFO]: Enabled plugin cmd_find version git:cmd_find:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:39] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: 
+[20:24:39] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: ******************************************
+[20:24:39] [main/INFO]: Enabled plugin cmd_server version git:cmd_server:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:39] [main/INFO]: Enabled plugin cmd_alert version git:cmd_alert:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:41] [main/INFO]: Enabled plugin floodgate version 2.2.2-SNAPSHOT (b87-2876c57) by GeyserMC
+[20:24:41] [main/INFO]: Enabled plugin cmd_send version git:cmd_send:1.20-R0.2-SNAPSHOT:92b5149:562 by WaterfallMC
+[20:24:41] [main/INFO]: Enabled plugin ViaBackwards version 4.9.1 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1
+[20:24:41] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
+[20:24:42] [OpenAudioMc Pool Thread #5/INFO]: [OpenAudioMc] Initializing account details
+[20:24:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/100.117.238.60:45002]: Connected via websocket
+[20:24:42] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/100.117.238.60:45002]: Origin header is null
+[20:24:43] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/100.117.238.60:45002]: Logged in as 'MeteorLord'
+[20:24:43] [Netty Worker IO Thread #2/INFO]: [/100.117.238.60:45002|MeteorLord] -> UpstreamBridge has connected
+[20:24:43] [Netty Worker IO Thread #2/INFO]: [OpenAudioMc] Post login for MeteorLord
+[20:24:43] [Netty Worker IO Thread #2/INFO]: [OpenAudioMc] Player MeteorLord is not ready yet during postLogin, waiting for next event
+[20:24:43] [OpenAudioMc Pool Thread #5/INFO]: [OpenAudioMc] The server is empty! ignoring voice chat.
+[20:24:43] [Netty Worker IO Thread #2/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 232ms to process event PermissionCheckEvent(sender=MeteorLord, permission=viaversion.update, hasPermission=false)!
+[20:24:43] [Netty Worker IO Thread #2/WARN]: Plugin listener com.viaversion.viaversion.bungee.listeners.UpdateListener took 234ms to process event PostLoginEvent(player=MeteorLord)!
+[20:24:43] [Netty Worker IO Thread #2/WARN]: Event PostLoginEvent(player=MeteorLord) took 289ms to process!
+[20:24:43] [Netty Worker IO Thread #2/INFO]: [MeteorLord|/100.117.238.60:45002] <-> ServerConnector [server] has connected
+[20:24:44] [Netty Worker IO Thread #2/WARN]: Error dispatching event ServerConnectedEvent(player=MeteorLord, server=net.md_5.bungee.ServerConnection@14ba0a2) to listener com.craftmend.openaudiomc.bungee.modules.player.listeners.PlayerConnectionListener@1d3c3d7
+java.lang.NullPointerException: Cannot invoke "net.md_5.bungee.api.connection.Server.getInfo()" because the return value of "net.md_5.bungee.api.connection.ProxiedPlayer.getServer()" is null
+	at com.craftmend.openaudiomc.bungee.modules.player.listeners.PlayerConnectionListener.onConnect(PlayerConnectionListener.java:53) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.md_5.bungee.event.EventHandlerMethod.invoke(EventHandlerMethod.java:19) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.event.EventBus.post(EventBus.java:50) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.api.plugin.PluginManager.callEvent(PluginManager.java:467) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.ServerConnector.handleLogin(ServerConnector.java:234) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.ServerConnector.handle(ServerConnector.java:221) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.protocol.packet.Login.handle(Login.java:283) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at net.md_5.bungee.netty.HandlerBoss.channelRead(HandlerBoss.java:124) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:442) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:346) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:318) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:444) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:412) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:440) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:420) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[bungee.jar:git:Waterfall-Bootstrap:1.20-R0.2-SNAPSHOT:92b5149:562]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[20:24:44] [Netty Worker IO Thread #2/WARN]: Plugin listener me.lucko.luckperms.bungee.context.BungeePlayerCalculator took 58ms to process event ServerSwitchEvent(player=MeteorLord, from=null)!
+[20:24:44] [Netty Worker IO Thread #2/INFO]: [OpenAudioMc] Player MeteorLord is not ready yet during serverSwitch, waiting for next event
+[20:24:44] [Netty Worker IO Thread #2/INFO]: [OpenAudioMc] Player MeteorLord is not registered yet, forcing login during switch
+[20:24:44] [Netty Worker IO Thread #2/WARN]: Plugin listener com.craftmend.openaudiomc.bungee.modules.player.listeners.PlayerConnectionListener took 211ms to process event ServerSwitchEvent(player=MeteorLord, from=null)!
+[20:24:44] [Netty Worker IO Thread #2/WARN]: Event ServerSwitchEvent(player=MeteorLord, from=null) took 292ms to process!
+[20:25:10] [main/INFO]: Command not found
+[20:25:19] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Started Geyser on 0.0.0.0:19132
+[20:25:19] [Geyser-BungeeCord Pool Thread #0/INFO] [Geyser-BungeeCord]: Done (39.729s)! Run /geyser help for help!
+[20:25:31] [main/INFO]: Command not found
+[20:26:35] [main/INFO]: Command not found
+[20:26:37] [main/INFO]: Command not found
+[20:26:41] [main/INFO]: Command not found
+[20:29:02] [main/INFO]: Command not found
+[20:29:08] [main/INFO]: Command not found
+[20:29:09] [main/INFO]: Command not found
+[20:29:12] [main/INFO]: You may connect to the following servers at this time: server
+[20:29:18] [main/INFO]: Command not found
+[20:29:19] [main/INFO]: [OA] OpenAudioMc version 6.8.9. For help, please use /openaudio help
+[20:29:25] [main/INFO]: [OA] Welcome to OpenAudioMc! you accepted the terms, enjoy the service!
+[20:29:25] [main/INFO]: [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:29:27] [OpenAudioMc Pool Thread #11/INFO]: [OpenAudioMc] Attempting to login to voice chat...
+[20:29:28] [OaVoiceAPI/INFO]: [OpenAudioMc] Connected to voicechat!
+[20:30:30] [Netty Worker IO Thread #2/INFO]: [forest.tailb0e09.ts.net/100.117.238.60:45002|MeteorLord] -> UpstreamBridge has disconnected
+[20:30:30] [Netty Worker IO Thread #2/INFO]: [MeteorLord] disconnected with: Proxy lost connection to server.
+[20:30:30] [Netty Worker IO Thread #2/INFO]: [forest.tailb0e09.ts.net/100.117.238.60:45002|MeteorLord] <-> DownstreamBridge <-> [server] has disconnected
+[20:30:34] [main/ERROR]: Exception in thread "main" java.io.IOError: java.io.IOException: Input/output error
+[20:30:34] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170)
+[20:30:34] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+[20:30:34] [main/ERROR]: 	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+[20:30:34] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923)
+[20:30:34] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956)
+[20:30:34] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651)
+[20:30:34] [main/ERROR]: 	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468)
+[20:30:34] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158)
+[20:30:34] [main/ERROR]: 	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141)
+[20:30:34] [main/ERROR]: 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:72)
+[20:30:34] [main/ERROR]: 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+[20:30:34] [main/ERROR]: Caused by: java.io.IOException: Input/output error
+[20:30:34] [main/ERROR]: 	at java.base/java.io.FileInputStream.read0(Native Method)
+[20:30:34] [main/ERROR]: 	at java.base/java.io.FileInputStream.read(FileInputStream.java:228)
+[20:30:34] [main/ERROR]: 	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+[20:30:34] [main/ERROR]: 	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+[20:30:34] [main/ERROR]: 	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+[20:30:34] [main/ERROR]: 	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+[20:30:34] [main/ERROR]: 	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160)
+[20:30:34] [main/ERROR]: 	... 10 more
+[20:30:35] [Thread-22/INFO]: [OpenAudioMc] Expected voicechat shut down.

@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "d5030494-0280-3715-b710-50fce85677e2",
+    "name": "MeteorLord",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ec5604e7-beb9-4071-aba1-627f13580845",
     "name": "Nerdo",
     "level": 4,
